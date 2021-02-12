@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 63.245 s <<< FAILURE! - in TestSuite
+aftertest(com.wipro.asg.Runner)  Time elapsed: 61.799 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.wipro.asg.Runner.aftertest(Runner.java:327)
+

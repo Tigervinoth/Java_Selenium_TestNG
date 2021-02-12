@@ -1,0 +1,239 @@
+# Created on 2021-02-12T06:06:26.181
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2021-02-12T06:06:32.460
+Unexpected IOException with stream: [
+
+# Created on 2021-02-12T06:06:32.463
+Unexpected IOException with stream: 5
+
+# Created on 2021-02-12T06:06:32.465
+Unexpected IOException with stream: 8
+
+# Created on 2021-02-12T06:06:32.469
+Unexpected IOException with stream: .
+
+# Created on 2021-02-12T06:06:32.471
+Unexpected IOException with stream: 3
+
+# Created on 2021-02-12T06:06:32.473
+Unexpected IOException with stream: 8
+
+# Created on 2021-02-12T06:06:32.475
+Unexpected IOException with stream: 2
+
+# Created on 2021-02-12T06:06:32.482
+Unexpected IOException with stream: ]
+
+# Created on 2021-02-12T06:06:32.484
+Unexpected IOException with stream: [
+
+# Created on 2021-02-12T06:06:32.486
+Unexpected IOException with stream: S
+
+# Created on 2021-02-12T06:06:32.488
+Unexpected IOException with stream: E
+
+# Created on 2021-02-12T06:06:32.489
+Unexpected IOException with stream: V
+
+# Created on 2021-02-12T06:06:32.490
+Unexpected IOException with stream: E
+
+# Created on 2021-02-12T06:06:32.492
+Unexpected IOException with stream: R
+
+# Created on 2021-02-12T06:06:32.493
+Unexpected IOException with stream: E
+
+# Created on 2021-02-12T06:06:32.497
+Unexpected IOException with stream: ]
+
+# Created on 2021-02-12T06:06:32.499
+Unexpected IOException with stream: :
+
+# Created on 2021-02-12T06:06:32.503
+Unexpected IOException with stream:  
+
+# Created on 2021-02-12T06:06:32.505
+Unexpected IOException with stream: U
+
+# Created on 2021-02-12T06:06:32.506
+Unexpected IOException with stream: n
+
+# Created on 2021-02-12T06:06:32.508
+Unexpected IOException with stream: a
+
+# Created on 2021-02-12T06:06:32.510
+Unexpected IOException with stream: b
+
+# Created on 2021-02-12T06:06:32.515
+Unexpected IOException with stream: l
+
+# Created on 2021-02-12T06:06:32.520
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.521
+Unexpected IOException with stream:  
+
+# Created on 2021-02-12T06:06:32.523
+Unexpected IOException with stream: t
+
+# Created on 2021-02-12T06:06:32.525
+Unexpected IOException with stream: o
+
+# Created on 2021-02-12T06:06:32.527
+Unexpected IOException with stream:  
+
+# Created on 2021-02-12T06:06:32.529
+Unexpected IOException with stream: r
+
+# Created on 2021-02-12T06:06:32.530
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.532
+Unexpected IOException with stream: c
+
+# Created on 2021-02-12T06:06:32.534
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.536
+Unexpected IOException with stream: i
+
+# Created on 2021-02-12T06:06:32.537
+Unexpected IOException with stream: v
+
+# Created on 2021-02-12T06:06:32.539
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.540
+Unexpected IOException with stream:  
+
+# Created on 2021-02-12T06:06:32.542
+Unexpected IOException with stream: m
+
+# Created on 2021-02-12T06:06:32.547
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.548
+Unexpected IOException with stream: s
+
+# Created on 2021-02-12T06:06:32.551
+Unexpected IOException with stream: s
+
+# Created on 2021-02-12T06:06:32.553
+Unexpected IOException with stream: a
+
+# Created on 2021-02-12T06:06:32.555
+Unexpected IOException with stream: g
+
+# Created on 2021-02-12T06:06:32.556
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.558
+Unexpected IOException with stream:  
+
+# Created on 2021-02-12T06:06:32.562
+Unexpected IOException with stream: f
+
+# Created on 2021-02-12T06:06:32.563
+Unexpected IOException with stream: r
+
+# Created on 2021-02-12T06:06:32.565
+Unexpected IOException with stream: o
+
+# Created on 2021-02-12T06:06:32.566
+Unexpected IOException with stream: m
+
+# Created on 2021-02-12T06:06:32.568
+Unexpected IOException with stream:  
+
+# Created on 2021-02-12T06:06:32.569
+Unexpected IOException with stream: r
+
+# Created on 2021-02-12T06:06:32.571
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.572
+Unexpected IOException with stream: n
+
+# Created on 2021-02-12T06:06:32.574
+Unexpected IOException with stream: d
+
+# Created on 2021-02-12T06:06:32.575
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.577
+Unexpected IOException with stream: r
+
+# Created on 2021-02-12T06:06:32.579
+Unexpected IOException with stream: e
+
+# Created on 2021-02-12T06:06:32.583
+Unexpected IOException with stream: r
+
+# Created on 2021-02-12T06:06:32.587
+Unexpected IOException with stream: 
+
+# Created on 2021-02-12T06:06:32.588
+Unexpected IOException with stream: 
+
+
+# Created on 2021-02-12T06:06:32.803
+Unexpected IOException with stream: org.openqa.selenium.SessionNotCreatedException: session not created exception
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=86.0.4240.111)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 58.16 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '30190JNBPBB126L', ip: '192.168.0.120', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: ChromeDriver
+
+# Created on 2021-02-12T06:06:32.804
+Unexpected IOException with stream: 
+
+
+# Created on 2021-02-12T06:06:32.805
+Unexpected IOException: 6,1,com.wipro.asg.Runner,test(com.wipro.asg.Runner),null,null,null
+
+
+# Created on 2021-02-12T06:06:32.807
+Unexpected IOException with stream: 0
+
+# Created on 2021-02-12T06:06:32.808
+Unexpected IOException with stream: 
+
+
+# Created on 2021-02-12T06:06:32.809
+Unexpected IOException with stream: 0
+
+# Created on 2021-02-12T06:06:32.810
+Unexpected IOException with stream: 
+
+
+# Created on 2021-02-12T06:06:32.818
+Unexpected IOException: 8,1,com.wipro.asg.Runner,aftertest(com.wipro.asg.Runner),null,null,null,null,Runner.aftertest:347 NullPointer,java.lang.NullPointerException\000A\0009at com.wipro.asg.Runner.aftertest(Runner.java:347)\000A
+
+
+# Created on 2021-02-12T06:06:32.819
+Unexpected IOException: 5,1,com.wipro.asg.Runner,test(com.wipro.asg.Runner),com.wipro.asg.Runner,null,null
+
+
+# Created on 2021-02-12T06:06:32.820
+Unexpected IOException: 9,1,com.wipro.asg.Runner,test(com.wipro.asg.Runner),null,null,null
+
+
+# Created on 2021-02-12T06:06:32.821
+Unexpected IOException: 9,1,com.wipro.asg.Runner,aftertest(com.wipro.asg.Runner),null,null,null
+
+
+# Created on 2021-02-12T06:06:32.940
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

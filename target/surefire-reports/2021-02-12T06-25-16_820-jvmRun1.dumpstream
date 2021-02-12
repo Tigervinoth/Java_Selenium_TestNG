@@ -1,0 +1,83 @@
+# Created on 2021-02-12T06:26:18.869
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2021-02-12T06:26:20.686
+Unexpected IOException with stream: org.openqa.selenium.WebDriverException: unknown error: DevToolsActivePort file doesn't exist
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '30190JNBPBB126L', ip: '192.168.0.120', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x004EC013+3194899]
+	Ordinal0 [0x003D6021+2056225]
+	Ordinal0 [0x0026F608+587272]
+	Ordinal0 [0x001F1051+69713]
+	Ordinal0 [0x001EE054+57428]
+	Ordinal0 [0x001EC64A+50762]
+	Ordinal0 [0x00211EE9+204521]
+	Ordinal0 [0x00211D0D+204045]
+	Ordinal0 [0x0020FC1B+195611]
+	Ordinal0 [0x001F3B7F+80767]
+	Ordinal0 [0x001F4B4E+84814]
+	Ordinal0 [0x001F4AD9+84697]
+	Ordinal0 [0x003ECE64+2149988]
+	GetHandleVerifier [0x0065BE95+1400773]
+	GetHandleVerifier [0x0065BB61+1399953]
+	GetHandleVerifier [0x006631FA+1430314]
+	GetHandleVerifier [0x0065C69F+1402831]
+	Ordinal0 [0x003E3D61+2112865]
+	Ordinal0 [0x003EE5CB+2155979]
+	Ordinal0 [0x003EE6F5+2156277]
+	Ordinal0 [0x003FF26E+2224750]
+	BaseThreadInitThunk [0x75E30419+25]
+	RtlGetAppContainerNamedObjectPath [0x76F2662D+237]
+	RtlGetAppContainerNamedObjectPath [0x76F265FD+189]
+
+
+# Created on 2021-02-12T06:26:20.694
+Unexpected IOException with stream: 
+
+
+# Created on 2021-02-12T06:26:20.696
+Unexpected IOException: 6,1,com.wipro.asg.Runner,test(com.wipro.asg.Runner),null,null,null
+
+
+# Created on 2021-02-12T06:26:20.704
+Unexpected IOException with stream: 0
+
+# Created on 2021-02-12T06:26:20.706
+Unexpected IOException with stream: 
+
+
+# Created on 2021-02-12T06:26:20.708
+Unexpected IOException with stream: 0
+
+# Created on 2021-02-12T06:26:20.711
+Unexpected IOException with stream: 
+
+
+# Created on 2021-02-12T06:26:20.725
+Unexpected IOException: 8,1,com.wipro.asg.Runner,aftertest(com.wipro.asg.Runner),null,null,null,null,Runner.aftertest:347 NullPointer,java.lang.NullPointerException\000A\0009at com.wipro.asg.Runner.aftertest(Runner.java:347)\000A
+
+
+# Created on 2021-02-12T06:26:20.727
+Unexpected IOException: 5,1,com.wipro.asg.Runner,test(com.wipro.asg.Runner),com.wipro.asg.Runner,null,null
+
+
+# Created on 2021-02-12T06:26:20.729
+Unexpected IOException: 9,1,com.wipro.asg.Runner,test(com.wipro.asg.Runner),null,null,null
+
+
+# Created on 2021-02-12T06:26:20.733
+Unexpected IOException: 9,1,com.wipro.asg.Runner,aftertest(com.wipro.asg.Runner),null,null,null
+
+
+# Created on 2021-02-12T06:26:20.952
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

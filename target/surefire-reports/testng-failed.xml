@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [AllTestsSuite]">
+  <test name="OpenCartTest(failed)">
+    <classes>
+      <class name="com.wipro.asg.Runner">
+        <methods>
+          <include name="aftertest"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.wipro.asg.Runner -->
+    </classes>
+  </test> <!-- OpenCartTest(failed) -->
+</suite> <!-- Failed suite [AllTestsSuite] -->
